@@ -8,8 +8,8 @@ in other applications to create maps that better meet thier expectations.
 The Perlin Noise/Marching Cubes plugins included were written by *figureout*.  They are worth looking at themselves for
 a better understanding of how perlin works, and can be easily expanded to suit more complex needs.
 
---To Done List
-8-15-14
+--To Done List.
+8-15-14.
 Had a sit down with Unity GUI, came to an understanding.
 Create multiple maps and maintain the settings for each.
 8-16-14
